@@ -1,5 +1,5 @@
 # Konstantinos Golias        
-![Alt Text](/Users/konstantinosgolias/Desktop/0.jpeg)
+![Alt Text](https://github.com/kgolias/MyCV/blob/main/0.jpeg)
 
 ### Personal Info
 
