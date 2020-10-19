@@ -18,6 +18,7 @@ Twitter  : [@k_golias](https://twitter.com/k_golias)
 ### Education
 
 **2019 - Present : ** Pervasive and Mobile Computing Systems MSc , Hellenic Open University
+
 **2005 - 2010    : ** Department of Computer Science , University of Ioannina
 
 ### Work Experience
