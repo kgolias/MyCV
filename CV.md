@@ -17,21 +17,21 @@ Twitter  : [@k_golias](https://twitter.com/k_golias)
 
 ### Education
 
-**2019 - Present : ** Pervasive and Mobile Computing Systems MSc , Hellenic Open University
+**2019 - Present :** Pervasive and Mobile Computing Systems MSc , Hellenic Open University
 
-**2005 - 2010    : ** Department of Computer Science , University of Ioannina
+**2005 - 2010    :** Department of Computer Science , University of Ioannina
 
 ### Work Experience
 
-**2018 - Present : ** *Business Advisor*, Vodafone Greece
+**2018 - Present :** *Business Advisor*, Vodafone Greece
 
 > -Helping Customers with their Telecoms , IT and Digital Strategy
 
-**2016 - 2018 : ** *Shop Manager*, Vodafone Greece
+**2016 - 2018 :** *Shop Manager*, Vodafone Greece
 
-**2015 - 2016 : ** *IS Specialist*, Vodafone Greece
+**2015 - 2016 :** *IS Specialist*, Vodafone Greece
 
-**2014 - 2015 : ** *Sales Advisor*, Vodafone Greece
+**2014 - 2015 :** *Sales Advisor*, Vodafone Greece
 
 
 ### Certifications - Skills
